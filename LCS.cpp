@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main ()
+{
+    long x;
+    cin >> x;
+    cout << x+1 << endl;
+    return 0;
+}
